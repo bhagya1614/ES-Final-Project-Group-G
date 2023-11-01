@@ -31,5 +31,5 @@ give him the username and password needed to log in, and through that to provide
 necessary space for him to control the affairs of the system.<br> <p>
 
 <h2>Interfaces in Stock Management System (Desktop Application) </h2>
-<br> <img src="F:\Campus stuff\NSBM-MIS\YEAR 2\semester 2\ES\ES-main assignment\images\1sign in" alt="Alt text" title="Optional title">
+<br> <img src="https://github.com/bhagya1614/ES-Final-Project-Group-G/blob/main/images/1sign%20in.png" alt="Alt text" title="Optional title">
 
