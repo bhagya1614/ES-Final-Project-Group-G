@@ -31,7 +31,7 @@ give him the username and password needed to log in, and through that to provide
 necessary space for him to control the affairs of the system.<br> <p>
 
 <h2>ER diagram </h2>
-<br> <img src="https://github.com/bhagya1614/ES-Final-Project-Group-G/blob/main/img/Picture1.jpg" alt="Alt text" title="Optional title">
+<br> <img src="https://github.com/bhagya1614/ES-Final-Project-Group-G/blob/main/img/Picture1.jpg" alt="Alt text" title="Optional title style="width:600px;height:500px;">
 <br> 
 <h2>Class Diagram </h2>
 <br> <img src="https://github.com/bhagya1614/ES-Final-Project-Group-G/blob/main/img/Picture2.jpg" alt="Alt text" title="Optional title">
