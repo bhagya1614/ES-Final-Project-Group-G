@@ -32,6 +32,5 @@ necessary space for him to control the affairs of the system.<br> <p>
 
 <h2>Interfaces in Stock Management System (Desktop Application) </h2>
 <br> <img src="https://github.com/bhagya1614/ES-Final-Project-Group-G/blob/main/images/1sign%20in.png" alt="Alt text" title="Optional title">
-<br> <img src="https://github.com/bhagya1614/ES-Final-Project-Group-G/blob/main/images/1sign%20in.png" alt="Alt text" title="Optional title">
-<br> <img src="https://github.com/bhagya1614/ES-Final-Project-Group-G/blob/main/images/1sign%20in.png" alt="Alt text" title="Optional title">
-<br> <img src="https://github.com/bhagya1614/ES-Final-Project-Group-G/blob/main/images/1sign%20in.png" alt="Alt text" title="Optional title">
+<br> <img src="https://github.com/bhagya1614/ES-Final-Project-Group-G/blob/main/images/2Dashboard.png" alt="Alt text" title="Optional title">
+<br> <img src="https://github.com/bhagya1614/ES-Final-Project-Group-G/blob/main/images/5Sales.png" alt="Alt text" title="Optional title">
